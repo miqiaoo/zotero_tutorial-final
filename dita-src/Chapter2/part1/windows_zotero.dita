@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="windows_zotero">
+    <title xml:lang="zh-CN">2.1.1 Windows如何下载安装Zotero</title>
+    <shortdesc>Zotero最初是基于Firefox浏览器的插件，现在可以基于桌面独立安装，支持多种常见操作系统，如Linux，iOS，macOS和Windows等。</shortdesc>
+    <taskbody>
+        <context>本节主要介绍如何下载安装Windows 64位版本的Zotero。</context>
+        <steps>
+            <step>
+                <cmd>进入Zotero下载官网<xref href="https://www.zotero.org/" format="html" scope="external"
+                        >http://www.zotero.org/download/</xref>。</cmd>
+            </step>
+            <step>
+                <cmd>点击页面左边"Zotero 7 Windows 版"模块蓝底白字"下载（64位）"按钮，如图所示<image
+                        href="jpg/Windows%E4%B8%8B%E8%BD%BD1.jpg" width="170" id="image_iwt_m1h_mdc"
+                    />。</cmd>
+            </step>
+            <step>
+                <cmd>双击已经下载好的exe安装文件或是点击"打开文件"，如图所示：<image href="jpg/windows%E4%B8%8B%E8%BD%BD2.jpg"
+                        id="image_g3k_3gh_mdc" width="200"/></cmd>
+            </step>
+            <step>
+                <cmd>等待安装文件解压。</cmd>
+            </step>
+            <step>
+                <cmd>当弹出"你要允许此应用对你的设备进行更改吗"对话框时，请选择"是"。</cmd>
+            </step>
+            <step>
+                <cmd>出现安装向导，如图所示：<image href="jpg/windows%E4%B8%8B%E8%BD%BD4.jpg"
+                        id="image_lcp_bhh_mdc" width="120"/>，请点击"下一步"或"Next"。</cmd>
+            </step>
+            <step>
+                <cmd>选择安装类型，如图所示：<image href="jpg/windows%E4%B8%8B%E8%BD%BD5.jpg" width="150"
+                        id="image_wdz_nhh_mdc"/>，可按照个人需要选择Standard标准模式或Custom定制模式。默认安装目录为C盘中Program
+                    Files（x86）下的Zotero，Standard模式无法修改安装目录；如选择Custom模式，点击"下一步"后软件将提示可以修改安装目录。</cmd>
+            </step>
+            <step>
+                <cmd>点击"Install"进行安装。</cmd>
+            </step>
+            <step>
+                <cmd>安装完成后，点击<cmdname>Finish</cmdname>即可打开Zotero。如图所示：<image
+                        href="jpg/windows%E4%B8%8B%E8%BD%BD6.jpg" width="150" id="image_l34_v3h_mdc"
+                    /></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

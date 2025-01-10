@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_ek5_tcj_mdc">
+    <title>2.2.1 Zotero在浏览器中的插件安装</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>为了高效地导入文献，建议安装 Zotero 的浏览器扩展程序。Zotero 提供了适用于多种浏览器的扩展，包括 Chrome、Firefox、Safari 以及基于
+            Chromium 内核的最新版 Edge 浏览器，但不支持 Internet Explorer。</p>
+    </conbody>
+</concept>

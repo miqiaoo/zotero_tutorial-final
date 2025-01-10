@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jfq_dlh_mdc">
+    <title>2.3.1 如何将Zotero界面语言从中文更改为其它</title>
+    <shortdesc/>
+    <taskbody>
+        <context>
+            <p>在安装Zotero并启动后，软件会自动根据你的操作系统语言设置界面语言。如果你的操作系统是中文的，Zotero界面也会默认显示中文。若要更改Zotero的界面语言，请按照以下步骤操作：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开Zotero软件。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>"编辑"</uicontrol>菜单</cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>"设置"</uicontrol>选项</cmd>
+            </step>
+            <step>
+                <cmd>选择<uicontrol>"常规"</uicontrol>标签页。</cmd>
+                <stepresult><image href="pic/WechatIMG565.jpg" width="300" height="120"
+                        id="image_itq_qbz_ydc"/></stepresult>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>"外观和语言"</uicontrol>部分的"语言"选项。</cmd>
+            </step>
+            <step>
+                <cmd>从下拉菜单中选择你希望更改的语言。</cmd>
+                <stepresult>选择后，系统会提示"Zotero必须重启才能使变更生效。"</stepresult>
+            </step>
+            <step>
+                <cmd>点击"立即重启"按钮。</cmd>
+                <stepresult>Zotero关闭后重新启动，重启完成后，界面更新为新选择的语言。</stepresult>
+            </step>
+        </steps>
+    </taskbody>
+</task>

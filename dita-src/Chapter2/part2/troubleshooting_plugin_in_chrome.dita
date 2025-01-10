@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="troubleshooting_plugin_in_chrome">
+    <title>b 无法在Chrome中使用Zotero的浏览器插件</title>
+    <troublebody>
+        <condition>
+            <title>Condition</title>
+            <p>无法在Zotero中找到自己曾操作保存的资料。</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>Cause</title>
+                <p>
+                    <ol id="ol_hlb_tpx_ydc">
+                        <li>Zotero插件不支持该网页内容格式。</li>
+                        <li>Zotero软件后台未启动。</li>
+                        <li>Zotero软件或其浏览器插件未更新至最新版本。</li>
+                    </ol>
+                </p>
+            </cause>
+            <remedy>
+                <title>Remedy</title>
+                <responsibleParty>Users</responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>直接点击拓展程序标志，出现灰色Zotero标志<image
+                                href="%E4%BC%98%E5%8C%965%E7%81%B0%E8%89%B2%E6%A0%87%E5%BF%97%E4%B8%8D%E6%94%AF%E6%8C%81.png"
+                                width="200" id="image_zd5_rtx_ydc"/>，则表示该界面不支持被Zotero插件保存。</cmd>
+                    </step>
+                    <step>
+                        <cmd>开始抓取资料前，打开Zotero软件，并保证其在后台不能退出。</cmd>
+                    </step>
+                    <step>
+                        <cmd>更新Zotero软件（或/及）浏览器插件至最新版本，更新步骤与下载步骤相同。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

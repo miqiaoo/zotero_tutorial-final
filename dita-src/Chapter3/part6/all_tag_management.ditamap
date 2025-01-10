@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>3.2 标签管理</title>
+    <topicref href="zotero%20tag%20usage.dita">
+        <topicref href="why%20use%20tags.dita"/>
+        <topicref href="manage_tags.dita"/>
+        <topicref href="tag_search_and_color.dita"/>
+        <topicref href="bulk_delere_tags.dita"/>
+    </topicref>
+</map>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_rqn_2dj_mdc">
+    <title>a 在Chrome中安装Zotero的浏览器插件</title>
+    <taskbody>
+        <context>
+            <p><image href="2%E6%B5%8F%E8%A7%88%E5%99%A8%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.png"
+                    width="270" id="image_kbz_pvj_mdc"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>访问<xref href="https://www.zotero.org/download/" format="html" scope="external"
+                    />，网站会检测到浏览器为Chrome并提示安装相应插件。</cmd>
+            </step>
+            <step>
+                <cmd>点击<keyword>Install Chrome Connector</keyword>，然后会出现是否需要安装的提示。</cmd>
+            </step>
+            <step>
+                <cmd>点击<keyword>添加扩展程序</keyword>即可进行插件安装。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

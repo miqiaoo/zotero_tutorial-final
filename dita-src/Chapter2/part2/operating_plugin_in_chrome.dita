@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="operating_plugin_in_chrome">
+    <title>a 在Chrome中使用Zotero的浏览器插件</title>
+    <shortdesc>在Chrome浏览器中使用插件保存搜索到的文献资料。</shortdesc>
+    <taskbody>
+        <context/>
+        <steps>
+            <step>
+                <cmd>点击浏览器界面右上角拓展程序标志<image
+                        href="%E4%BC%98%E5%8C%961%E6%8B%93%E5%B1%95%E5%9B%BE%E6%A0%87.png"
+                        id="image_w3k_3sx_ydc" width="200"/>。</cmd>
+            </step>
+            <step>
+                <cmd>点击Zotero插件标志<image
+                        href="%E4%BC%98%E5%8C%962%E8%87%AA%E7%84%B6%E4%BF%9D%E5%AD%98.png"
+                        id="image_ojr_psx_ydc" width="200"/>。</cmd>
+            </step>
+            <step>
+                <cmd>保存至Zotero中想保存位置，如“我的文库<image
+                        href="%E4%BC%98%E5%8C%963%E4%BF%9D%E5%AD%98%E4%BD%8D%E7%BD%AE.png"
+                        width="200" id="image_px1_xsx_ydc"/>。</cmd>
+            </step>
+            <step>
+                <cmd>之后可以在Zotero相应位置找到被保存的资料<image
+                        href="%E4%BC%98%E5%8C%964%E5%AF%B9%E5%BA%94%E4%BD%8D%E7%BD%AE%E6%89%93%E5%BC%80.png"
+                        width="300" id="image_m4b_htx_ydc"/>.</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

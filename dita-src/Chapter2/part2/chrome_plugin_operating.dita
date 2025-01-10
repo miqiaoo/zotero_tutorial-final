@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="chrome_plugin_operating">
+    <title>2.2.2 Zotero的浏览器插件使用</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>下载并安装好与浏览器适配的插件后，即可开始使用。</p>
+    </conbody>
+</concept>

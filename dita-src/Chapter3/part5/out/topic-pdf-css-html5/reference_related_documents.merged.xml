@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<?workdir /Users/freyaaf/Desktop/zotero_tutorial1.0/Chapter3/part5/temp/topic-pdf-css-html5?><?workdir-uri file:/Users/freyaaf/Desktop/zotero_tutorial1.0/Chapter3/part5/temp/topic-pdf-css-html5/?><?path2project?><?path2project-uri ./?><?path2rootmap-uri ./?><?doctype-public -//OASIS//DTD DITA Reference//EN?><?doctype-system reference.dtd?><reference xmlns:css-param="http://www.oxygenxml.com/extensions/publishing/dita/css/params" xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" class="- topic/topic       reference/reference " ditaarch:DITAArchVersion="1.3" domains="(topic reference) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" id="reference_related_documents" specializations="@props/deliveryTarget" xtrc="reference:1;3:45" xtrf="file:/Users/freyaaf/Desktop/zotero_tutorial1.0/Chapter3/part5/reference_related_documents.dita" css-param:show-onpage-lbl="no" xml:lang="en">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">II 关联逻辑</ph></title>
+ 
+    <shortdesc class="- topic/shortdesc ">关联关系是双向的，但不具备传递性即条目A与B关联，Zotero会自动让B关联A；若A关联B，B关联C，A并不会自动关联C。</shortdesc>
+    <refbody class="- topic/body        reference/refbody ">
+        <example class="- topic/example ">
+            <p class="- topic/p "> </p>
+            <p class="- topic/p ">
+                <image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero_tutorial1.0/Chapter3/part5/5-image/截屏2025-01-09%2016.35.06.png" id="image_anc_4zd_zdc" placement="inline" width="350"/></p>
+            <p class="- topic/p "><image class="- topic/image " href="file:/Users/freyaaf/Desktop/zotero_tutorial1.0/Chapter3/part5/5-image/zotero_linking_logic.png" id="image_qjk_nq1_ydc" placement="inline" width="400"/></p>
+        </example>
+    </refbody>
+       
+    </reference>

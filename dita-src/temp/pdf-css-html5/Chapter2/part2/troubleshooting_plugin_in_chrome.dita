@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter2/part2?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter2/part2/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Troubleshooting//EN?><?doctype-system troubleshooting.dtd?><troubleshooting xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="troubleshooting_plugin_in_chrome" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic troubleshooting++task) (topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic troubleshooting/troubleshooting " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="troubleshooting:1;3:56" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="title:1;4:12">b 无法在Chrome中使用Zotero的浏览器插件</title>
+    <troublebody class="- topic/body troubleshooting/troublebody " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="troublebody:1;5:18">
+        <condition class="- topic/section troubleshooting/condition " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="condition:1;6:20">
+            <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="title:2;7:20">Condition</title>
+            <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="p:1;8:16">无法在Zotero中找到自己曾操作保存的资料。</p>
+        </condition>
+        <troubleSolution class="- topic/bodydiv troubleshooting/troubleSolution " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="troubleSolution:1;10:26">
+            <cause class="- topic/section troubleshooting/cause " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="cause:1;11:20">
+                <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="title:3;12:24">Cause</title>
+                <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="p:2;13:20">
+                    <ol id="ol_hlb_tpx_ydc" class="- topic/ol " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="ol:1;14:45">
+                        <li class="- topic/li " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="li:1;15:29">Zotero插件不支持该网页内容格式。</li>
+                        <li class="- topic/li " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="li:2;16:29">Zotero软件后台未启动。</li>
+                        <li class="- topic/li " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="li:3;17:29">Zotero软件或其浏览器插件未更新至最新版本。</li>
+                    </ol>
+                </p>
+            </cause>
+            <remedy class="- topic/section troubleshooting/remedy " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="remedy:1;21:21">
+                <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="title:4;22:24">Remedy</title>
+                <responsibleParty class="- topic/p troubleshooting/responsibleParty " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="responsibleParty:1;23:35">Users</responsibleParty>
+                <steps class="- topic/ol task/steps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="steps:1;24:24">
+                    <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="step:1;25:27">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="cmd:1;26:30">直接点击拓展程序标志，出现灰色Zotero标志<image href="优化5灰色标志不支持.png" width="200" id="image_zd5_rtx_ydc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="image:1;28:69"/>，则表示该界面不支持被Zotero插件保存。</cmd>
+                    </step>
+                    <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="step:2;30:27">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="cmd:2;31:30">开始抓取资料前，打开Zotero软件，并保证其在后台不能退出。</cmd>
+                    </step>
+                    <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="step:3;33:27">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/troubleshooting_plugin_in_chrome.dita" xtrc="cmd:3;34:30">更新Zotero软件（或/及）浏览器插件至最新版本，更新步骤与下载步骤相同。</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

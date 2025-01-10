@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_wps_skj_mdc">
+    <title>3.5.2 卸载插件</title>
+    <shortdesc>以卸载Windows系统中Word2007及以后版本中Zotero插件为例。</shortdesc>
+    <taskbody>
+        <context>
+            <p>您可以从 Word 启动文件夹中删除 Zotero.dotm，然后重新启动 Word，卸载 Word 插件。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>找到插件所在位置，默认位置为%AppData%\Microsoft\Word\STARTUP<keyword>%AppData%\Microsoft\Word\STARTUP</keyword>.</cmd>
+            </step>
+            <step>
+                <cmd>如果对 “STARTUP ”文件夹所做的更改没有生效，可以确认 Word 没有设置到其他位置。在 Word
+                        功能区中，单击文件选项卡，点击<keyword>选项</keyword>选项，然后点击<keyword>高级</keyword>。</cmd>
+            </step>
+            <step>
+                <cmd>在常规下，点击<keyword>文件位置</keyword>。启动文件夹应列在其中。选择该文件夹并点击<keyword>修改</keyword>。</cmd>
+            </step>
+            <step>
+                <cmd>在打开的窗口中，点击顶部位置栏中路径右侧的空格，然后按<keyword>Ctrl-C</keyword>  键将完整路径复制到剪贴板。</cmd>
+            </step>
+            <step>
+                <cmd>点击<keyword>取消</keyword>关闭对话框，不做任何更改。</cmd>
+            </step>
+            <step>
+                <cmd>然后打开一个新的文件资源管理器对话框，将路径粘贴到地址栏，即可打开启动文件夹。</cmd>
+            </step>
+            <step>
+                <cmd>你可以在该文件夹中删除<keyword>Zotero.dotm</keyword>后重启Word，此时插件已卸载。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

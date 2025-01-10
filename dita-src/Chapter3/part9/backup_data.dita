@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="backup_data">
+    <title>3.4.3 数据的备份与恢复</title>
+    <shortdesc>备份 Zotero 数据文件夹及重要文件的方法，以及如何恢复数据。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>定位默认路径的Zotero 数据目录：</cmd>
+                <substeps id="substeps_cmc_p32_ldc">
+                    <substep>
+                        <cmd>Windows 系统默认路径为 " C: Users &lt;User Name>
+                            Zotero"。Macos系统默认路径为"/Users/&lt;username>/Zotero"。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>定位非默认路径的Zotero数据目录：</cmd>
+                <substeps id="substeps_p5j_xm2_ldc">
+                    <substep>
+                        <cmd>点击: Edit-Settings-Advanced</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>点击：Show Data Directory Location。 <image
+                                href="9-image/show%20data%20directory.jpg" width="300"
+                                id="image_o5m_sn2_ldc"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>备份数据文件夹：</cmd>
+                <substeps id="substeps_xhc_s32_ldc">
+                    <substep>
+                        <cmd>复制数据目录到安全位置，例如 "D:\Zotero_data_backup"。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>恢复数据文件夹：</cmd>
+                <substeps id="substeps_orz_t32_ldc">
+                    <substep>
+                        <cmd>在 Zotero 中依次点击 Edit -Settings -Advanced-Files and Folders。</cmd>
+                    </substep>
+                    <substep>
+                        <cmd>点击 Data Directory Location下的 Choose...。 <image
+                                href="9-image/show%20data%20directory.jpg" width="300"
+                                id="image_yvy_tn2_ldc"/></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>选择自己备份的目录并根据提示重新启动 Zotero即可打开以前的数据。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

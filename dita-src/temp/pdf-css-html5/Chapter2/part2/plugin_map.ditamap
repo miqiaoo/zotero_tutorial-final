@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter2/part2?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter2/part2/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">2.2 安装插件</title>
+    <topicref class="- map/topicref " href="2_2_install_plugin_0.dita" xtrc="topicref:1;5:48" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">
+        <topicref class="- map/topicref " href="browser_plugin.dita" xtrc="topicref:2;6:46" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">
+            <topicref class="- map/topicref " href="Chrome_plugin_online.dita" xtrc="topicref:3;7:57" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+            <topicref class="- map/topicref " href="troubleshooting_chrome_plugin.dita" xtrc="topicref:4;8:66" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+        </topicref>
+        <topicref class="- map/topicref " href="chrome_plugin_operating.dita" xtrc="topicref:5;10:55" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">
+            <topicref class="- map/topicref " href="operating_plugin_in_chrome.dita" xtrc="topicref:6;11:63" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+            <topicref class="- map/topicref " href="troubleshooting_plugin_in_chrome.dita" xtrc="topicref:7;12:69" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+        </topicref>
+        <topicref class="- map/topicref " href="zoteroplugin_download.dita" xtrc="topicref:8;14:53" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap">
+            <topicref class="- map/topicref " href="zoterostore_plugin.dita" xtrc="topicref:9;15:55" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+            <topicref class="- map/topicref " href="jas%20plugin.dita" xtrc="topicref:10;16:49" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part2/plugin_map.ditamap"/>
+        </topicref>
+    </topicref>
+</map>

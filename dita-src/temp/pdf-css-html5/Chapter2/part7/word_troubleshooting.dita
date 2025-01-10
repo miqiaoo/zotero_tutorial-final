@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter2/part7?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter2/part7/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="troubleshooting-zotero-word" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="task:1;3:40" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="title:1;4:12">2.5.6 故障排除</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="shortdesc:1;5:16">解决在使用Zotero Word插件时遇到的常见问题。</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="p:1;8:16">如果遇到Zotero插件未显示、引注未正确更新等问题，请按照以下步骤操作：</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="cmd:1;12:22">检查插件安装。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="info:1;13:23">
+                    <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="p:2;14:24">确保Zotero插件已正确安装，且Word插件已启用。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="step:2;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="cmd:2;18:22">检查网络连接。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="info:2;19:23">
+                    <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="p:3;20:24">确保网络连接正常，以便Zotero可以同步库中的更改。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="step:3;23:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="cmd:3;24:22">重启Word和Zotero。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="info:3;25:23">
+                    <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="p:4;26:24">尝试重启Word和Zotero，重新建立连接。</p>
+                </info>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="step:4;29:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="cmd:4;30:22">寻求帮助。</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="info:4;31:23">
+                    <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part7/word_troubleshooting.dita" xtrc="p:5;32:24">访问Zotero官方论坛或中文社区寻求帮助。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

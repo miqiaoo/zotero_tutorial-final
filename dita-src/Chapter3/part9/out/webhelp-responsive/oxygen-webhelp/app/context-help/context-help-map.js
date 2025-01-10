@@ -1,0 +1,1 @@
+var contextHelpMap = [{"appname":"", "appid":"topic_data_backup_and_restoration", "path":"topic_data_backup_and_restoration.html"},{"appname":"", "appid":"backup-restore-zotero", "path":"backup_and_restore_zotero.html"},{"appname":"", "appid":"backup_settings", "path":"backup_settings.html"},{"appname":"", "appid":"backup_data", "path":"backup_data.html"}];

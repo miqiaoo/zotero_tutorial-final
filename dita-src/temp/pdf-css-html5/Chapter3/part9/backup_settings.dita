@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter3/part9?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter3/part9/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="backup_settings" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="task:1;3:28" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="title:1;4:12">3.4.2 设置的备份与恢复</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="shortdesc:1;5:16">备份Zotero设置的方法，以及如何在新设备上恢复设置。</shortdesc>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="p:1;8:16"/>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:1;12:22">定位Zotero配置文件位置，以windows为例：</cmd>
+                <info class="- topic/itemgroup task/info " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="info:1;13:23">Windows系统的默认路径为"C: Users &lt;User Name&gt; AppData Roaming Zotero Zotero Profiles
+                    &lt;randomstring&gt;"。Macos系统的默认路径为"/Users/&lt;username&gt;/Library/Application
+                    Support/Zotero/Profiles/&lt;randomstring&gt;"。</info>
+                <substeps class="- topic/ol task/substeps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substeps:1;16:27">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:1;17:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:2;18:30">按Win+R，输入 %appdata%，然后回车，打开 Roaming目录。 <image href="9-image/%25appdata%25.jpg" width="300" id="image_kkv_kl2_ldc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="image:1;20:31"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:2;22:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:3;23:30">再双击 Zotero 等文件夹进入最终的目录，如 vwadz9wo.default。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="step:2;27:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:4;28:22">备份配置文件：</cmd>
+                <substeps class="- topic/ol task/substeps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substeps:2;29:27">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:3;30:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:5;31:30">复制上述目录到安全位置，例如D: Zotero _back。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="step:3;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:6;36:22">恢复配置文件：</cmd>
+                <substeps id="substeps_glj_wh2_ldc" class="- topic/ol task/substeps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substeps:3;37:53">
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:4;38:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:7;39:30">按Win+R，输入&lt;zotero安装路径&gt;\zotero.exe -P。如D:\zotero\zotero.exe -P，并回车。
+                                <image href="9-image/zotero.exe%20-p.jpg" width="300" id="image_b3q_nl2_ldc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="image:2;41:57"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:5;43:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:8;44:30">在弹出的对话框中选择 "Creat Profile"，并点击       Next。           <image href="9-image/Creat%20Profile.jpg" width="300" id="image_g2d_pl2_ldc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="image:3;46:57"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:6;48:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:9;49:30">输入配置文件名称，点击 Choose Folder...，并选择刚才备份的目录，如
+                                D:Zotero_backvwadz9wo.default<image href="9-image/Choose%20Folder..jpg" width="300" id="image_zbg_tl2_ldc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="image:4;52:57"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:7;54:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:10;55:30">点击 Finish，然后Start Zotero。<image href="9-image/Start%20Zotero.jpg" width="300" id="image_xgc_5l2_ldc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="image:5;56:69"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="substep:8;58:30">
+                        <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part9/backup_settings.dita" xtrc="cmd:11;59:30">确保新设备与旧设备目录结构一致，恢复后的设置（包括插件和同步用户）会自动应用。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

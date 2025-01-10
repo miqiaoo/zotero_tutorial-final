@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="tag_search_and_color">
+    <title>3.2.3 搜索和设置标签颜色</title>
+    <shortdesc>通过颜色区分标签，并快速搜索需要的标签。</shortdesc>
+    <taskbody>
+        <context>
+            <p></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>为标签指定颜色</cmd>
+                <substeps id="substeps_cy4_vzd_ldc">
+                    <substep>
+                        <cmd>右击标签并选择"分配颜色"。    <image
+                                href="6-image/6%20%E7%BB%99%E6%A0%87%E7%AD%BE%E6%8C%87%E5%AE%9A%E9%A2%9C%E8%89%B2%201.png"
+                                width="300" id="image_x42_3d2_ldc"/></cmd>
+                    </substep>
+                    <substep>
+                        <cmd>选择颜色并设置位置。                <image
+                                href="6-image/6%20%E7%BB%99%E6%A0%87%E7%AD%BE%E6%8C%87%E5%AE%9A%E9%A2%9C%E8%89%B2%202.png"
+                                width="300" id="image_tvs_wzd_ldc"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step>
+                <cmd>搜索标签</cmd>
+                <substeps id="substeps_wq2_yzd_ldc">
+                    <substep>
+                        <cmd>在标签区域底部输入标签名称。  <image
+                                href="6-image/7%20%E6%90%9C%E7%B4%A2%E6%A0%87%E7%AD%BE.png"
+                                width="300" id="image_cdc_112_ldc"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

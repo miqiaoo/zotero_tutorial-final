@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create-group">
+    <title>3.3.2 创建群组</title>
+    <shortdesc>本节介绍创建Zotero群组的两种方式。</shortdesc>
+    <taskbody>
+        <context>
+            <p>有两种方式创建Zotero群组，步骤分别如下：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>在Zotero客户端中创建：</cmd>
+                <info>
+                    <ol>
+                        <li>打开Zotero客户端，点击如下按钮：<image href="8-image/create%20group1.png" width="300"
+                                placement="break" id="image_zbm_c4h_mdc"/></li>
+                    </ol>
+                </info>
+            </step>
+            <step>
+                <cmd>在Zotero群组页面创建：</cmd>
+                <info>
+                    <ol>
+                        <li>访问Zotero群组页面，点击<uicontrol>Create a New Group</uicontrol>按钮。<image
+                                placement="break" href="8-image/create%20a%20new%20group.png"
+                                width="300" id="image_ckd_44h_mdc"/></li>
+                        <li>为群组输入一个名字，选择群组的类型，并依次进行群组设置，即可完成创建。<image placement="break"
+                                href="8-image/group%20name.png" width="400" id="image_wn4_q4h_mdc"
+                                /><image placement="break" href="8-image/group%20settings.png"
+                                width="300" id="image_ubj_x4h_mdc"/></li>
+                    </ol>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

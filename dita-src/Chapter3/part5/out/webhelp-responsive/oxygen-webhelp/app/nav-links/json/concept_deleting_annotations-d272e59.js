@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"concept_deleting_annotations-d272e59":{"topics":[{"title":"I 如何删除注释","href":"task_deleting_annotations.html","attributes":{"data-id":"task_delete_annotation"},"menu":{"hasChildren":false},"tocID":"task_delete_annotation-d272e67","topics":[]}]}};

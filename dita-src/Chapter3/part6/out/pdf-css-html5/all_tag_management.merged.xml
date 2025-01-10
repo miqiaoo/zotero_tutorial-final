@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/oxygen-webhelp/app/topic-page-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.pdf.css/css/print/p-dita.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.editlink/pdf-css.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/oxygen-print.css'?>
+<?xml-stylesheet type='text/css' href='file:/Applications/Oxygen%20XML%20Editor/frameworks/dita/DITA-OT3.x/plugins/com.oxygenxml.webhelp.responsive/templates/oxygen/notes.css'?>
+<map xmlns:css2fo="http://www.oxygenxml.com/css2fo" xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xmlns:nd="http://www.oxygenxml.com/css2fo/named-destinations" xmlns:opentopic="http://www.idiominc.com/opentopic" xmlns:opentopic-index="http://www.idiominc.com/opentopic/index" xmlns:oxy="http://www.oxygenxml.com/extensions/author" xmlns:xs="http://www.w3.org/2001/XMLSchema" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/all_tag_management.ditamap" xml:lang="en"><oxy:front-page class="- front-page/front-page "><oxy:front-page-title class="- front-page/front-page-title "><title xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- topic/title ">6. 标签管理</title></oxy:front-page-title></oxy:front-page><opentopic:map xmlns:ot-placeholder="http://suite-sol.com/namespaces/ot-placeholder" class="- toc/toc "><oxy:toc-title class="- toc/title " empty="true"/>
+    <title class="- topic/title ">6. 标签管理</title>
+    <topicref is-chapter="true" class="- map/topicref " href="#unique_1" type="topic"><topicmeta class="- map/topicmeta " data-topic-id="topic_yb3_ttd_ldc"><resourceid appid="topic_yb3_ttd_ldc" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_1" class="- topic/navtitle ">Zotero标签的管理</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta><topicref class="- map/topicref " href="#unique_2" type="concept"><topicmeta class="- map/topicmeta " data-topic-id="concept_q1r_c5d_ldc"><resourceid appid="concept_q1r_c5d_ldc" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_2" class="- topic/navtitle ">6.1 为什么使用标签功能？</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc "/></topicmeta></topicref><topicref class="- map/topicref " href="#unique_3" type="task"><topicmeta class="- map/topicmeta " data-topic-id="manage_tags"><resourceid appid="manage_tags" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_3" class="- topic/navtitle ">6.2 标签基本功能</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">如何不显示、删除和禁用自动标签，以及为文献添加标签。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_4" type="task"><topicmeta class="- map/topicmeta " data-topic-id="tag_search_and_color"><resourceid appid="tag_search_and_color" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_4" class="- topic/navtitle ">6.3 搜索和设置标签颜色</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">通过颜色区分标签，并快速搜索需要的标签。</shortdesc></topicmeta></topicref><topicref class="- map/topicref " href="#unique_5" type="task"><topicmeta class="- map/topicmeta " data-topic-id="bulk_delere_tags"><resourceid appid="bulk_delere_tags" class="- topic/resourceid " oxy-source="topic"/><navtitle href="#unique_5" class="- topic/navtitle ">6.4 批量删除标签</navtitle><?ditaot gentext?><?ditaot genshortdesc?><shortdesc class="- map/shortdesc ">同时从多篇文献中删除某一标签。</shortdesc></topicmeta></topicref></topicref>
+</opentopic:map><topic break-before="true" is-chapter="true" class="- topic/topic " id="unique_1" topicrefclass="- map/topicref " nd:nd-id="topic_yb3_ttd_ldc" oid="topic_yb3_ttd_ldc" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">Zotero标签的管理</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <body class="- topic/body ">
+        <p class="- topic/p ">本节介绍如何在 Zotero 中使用标签功能实现文献的高效管理。</p>
+        <p class="- topic/p "/>
+    </body>
+<concept class="- topic/topic concept/concept " id="unique_2" topicrefclass="- map/topicref " nd:nd-id="concept_q1r_c5d_ldc" oid="concept_q1r_c5d_ldc" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">6.1 为什么使用标签功能？</ph></title>
+    <shortdesc class="- topic/shortdesc "/>
+    <conbody class="- topic/body  concept/conbody ">
+        <p class="- topic/p ">解释文件夹与标签功能的区别，以及使用标签的场景。</p>
+        <p class="- topic/p "/>
+        <p class="- topic/p ">在 Zotero 中，我们可以使用文件夹和标签来管理文献。文件夹适用于将文献按专题或研究方向分类，但有时一篇文献可能属于多个类别，这时使用标签更为方便。例如：<ul class="- topic/ul " id="unique_2_Connect_42_ul_o1b_m5d_ldc" nd:nd-id="ul_o1b_m5d_ldc">
+                <li class="- topic/li ">将文献分类为"已读"或"未读"</li>
+                <li class="- topic/li ">给特定项目编号的文献打标签<p class="- topic/p ">相比将文献复制到多个文件夹或创建子文件夹，使用标签可以简化操作，实现“交叉”管理。</p></li>
+            </ul></p>
+    </conbody>
+</concept><task class="- topic/topic task/task " id="unique_3" topicrefclass="- map/topicref " nd:nd-id="manage_tags" oid="manage_tags" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">6.2 标签基本功能</ph></title>
+    <shortdesc class="- topic/shortdesc ">如何不显示、删除和禁用自动标签，以及为文献添加标签。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">不显示自动标签</cmd>
+                <info class="- topic/itemgroup task/info ">
+                    <p class="- topic/p ">当 Zotero 导入文献时，自动标签功能会将关键词和主题导入为标签，可能导致标签区域杂乱。以下是不xian sh自动标签的方法：</p>
+                </info>
+                <substeps class="- topic/ol task/substeps ">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">打开标签管理区域</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击左下角的漏斗图标</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">取消勾选"显示自动标签"<image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/1使自动标签不显示或删除自动标签.png" id="unique_3_Connect_42_image_uzz_nvd_ldc" nd:nd-id="image_uzz_nvd_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">删除现有自动标签</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_mrx_nwd_ldc" nd:nd-id="substeps_mrx_nwd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击"删除此文献库中的自动标签..."，并确认删除操作。 <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/2确认删除自动标签.png" id="unique_3_Connect_42_image_ok4_rwd_ldc" nd:nd-id="image_ok4_rwd_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">禁用自动标签</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_etb_2xd_ldc" nd:nd-id="substeps_etb_2xd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击菜单栏"Zotero"</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击"设置"</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击"常规"</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">在"基于关键词和主题词自动为条目添加标签"前面方框内点击，使他处于不选中状态。
+                                <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/3%20导入文献不自动导入关键词作为标签.png" id="unique_3_Connect_42_image_rt4_kzd_ldc" nd:nd-id="image_rt4_kzd_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">为文献添加新标签</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_ngk_vwd_ldc" nd:nd-id="substeps_ngk_vwd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">选中文献并打开标签面板</cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">点击"+" 图标，输入标签名称，按回车键完成。      <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/4%20给一篇文献添加标签.png" id="unique_3_Connect_42_image_lbd_1xd_ldc" nd:nd-id="image_lbd_1xd_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">为多篇文献添加现有标签</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_3_Connect_42_substeps_x1k_jyd_ldc" nd:nd-id="substeps_x1k_jyd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">将选中文献拖动到左下角的标签区域</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_4" topicrefclass="- map/topicref " nd:nd-id="tag_search_and_color" oid="tag_search_and_color" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">6.3 搜索和设置标签颜色</ph></title>
+    <shortdesc class="- topic/shortdesc ">通过颜色区分标签，并快速搜索需要的标签。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">为标签指定颜色</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_4_Connect_42_substeps_cy4_vzd_ldc" nd:nd-id="substeps_cy4_vzd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">右击标签并选择"分配颜色"。    <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/6%20给标签指定颜色%201.png" id="unique_4_Connect_42_image_x42_3d2_ldc" nd:nd-id="image_x42_3d2_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">选择颜色并设置位置。                <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/6%20给标签指定颜色%202.png" id="unique_4_Connect_42_image_tvs_wzd_ldc" nd:nd-id="image_tvs_wzd_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">搜索标签</cmd>
+                <substeps class="- topic/ol task/substeps " id="unique_4_Connect_42_substeps_wq2_yzd_ldc" nd:nd-id="substeps_wq2_yzd_ldc">
+                    <substep class="- topic/li task/substep ">
+                        <cmd class="- topic/ph task/cmd ">在标签区域底部输入标签名称。  <image class="- topic/image " href="file:/Users/mac/Desktop/2024入学/课程/技术写作/中期报告/6.%20标签管理/6-image/7%20搜索标签.png" id="unique_4_Connect_42_image_cdc_112_ldc" nd:nd-id="image_cdc_112_ldc" placement="inline" width="300"/></cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task><task class="- topic/topic task/task " id="unique_5" topicrefclass="- map/topicref " nd:nd-id="bulk_delere_tags" oid="bulk_delere_tags" specializations="@props/deliveryTarget">
+    <title class="- topic/title "><ph class="- topic/ph topic/title-wrapper ">6.4 批量删除标签</ph></title>
+    <shortdesc class="- topic/shortdesc ">同时从多篇文献中删除某一标签。</shortdesc>
+    <taskbody class="- topic/body task/taskbody ">
+        <context class="- topic/section task/context ">
+            <p class="- topic/p "/>
+        </context>
+        <steps class="- topic/ol task/steps ">
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">选中需要处理的文献。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">按住"shift"或"Ctrl"键选择多篇文献。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">拖动选中的文献到需要删除的标签上。</cmd>
+            </step>
+            <step class="- topic/li task/step ">
+                <cmd class="- topic/ph task/cmd ">标签将从这些文献中移除。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task></topic></map>

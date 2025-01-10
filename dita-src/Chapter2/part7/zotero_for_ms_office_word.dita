@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="zotero-overview">
+    <title>2.5.1 Zotero for MS Office Word插件</title>
+    <shortdesc>Zotero for MS Office Word插件允许用户在Microsoft Word文档中直接插入和管理文献引用，以及创建参考文献表。</shortdesc>
+    <conbody>
+        <p>一般情况下，Zotero 安装时会安装 Zotero Word 插件，其会在 Microsoft Word 里添加一个 Zotero
+                选项卡，提供了添加/编辑引注、添加/编辑参考文献表、添加笔记、文档首选项、刷新和取消链接引注等功能。如下图所示：<image placement="break"
+                href="7-image/Zotero%20Word%20%E6%8F%92%E4%BB%B6%E9%80%89%E9%A1%B9%E5%8D%A1.png"
+                width="300" id="image_f5j_db3_mdc"/></p>
+    </conbody>
+</concept>

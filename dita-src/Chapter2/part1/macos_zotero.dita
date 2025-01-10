@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="macos_zotero">
+    <title>2.1.2 macOS如何下载安装Zotero</title>
+    <shortdesc>Zotero最初是基于Firefox浏览器的插件，现在可以基于桌面独立安装，支持多种常见操作系统，如Linux，iOS，macOS和Windows等。</shortdesc>
+    <taskbody>
+        <context>
+            <p>本节主要以Safari浏览器为例，介绍如何在macOS系统上下载安装Zotero。</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>进入Zotero官网<xref href="https://www.zotero.org/" format="html" scope="external"
+                    />。</cmd>
+            </step>
+            <step>
+                <cmd>点击页面中部红色背景"Download"按钮，如下图所示：</cmd>
+                <info><image href="jpg/macOS%E4%B8%8B%E8%BD%BD1.png" width="100"
+                        id="image_k1w_jtg_mdc"/></info>
+            </step>
+            <step>
+                <cmd>在跳转的新页面中找到左方"Zotero 7 for Mac"模块，点击蓝底白字"Download"按钮，如图所示：<image
+                        href="jpg/macOS%E4%B8%8B%E8%BD%BD2.jpg" id="image_m4h_ztg_mdc" width="157"
+                    /></cmd>
+            </step>
+            <step>
+                <cmd>在弹出的"你要允许'www.zotero.org'上的下载吗"对话框中选择"允许"，然后等待下载。</cmd>
+            </step>
+            <step>
+                <cmd>下载完成后，双击Zotero的dmg文件，如图所示：<image href="jpg/macOS%E4%B8%8B%E8%BD%BD3.jpg"
+                        width="200" id="image_hvd_dwg_mdc"/></cmd>
+            </step>
+            <step>
+                <cmd>在弹出框中将左侧的"Zotero"图标拖拽到右侧的"Drage Here to Install"里，然后等待Zotero拷贝到应用程序。</cmd>
+            </step>
+            <step>
+                <cmd>双击应用程序中Zotero图标以打开软件，如图所示：<image href="jpg/macOS%E4%B8%8B%E8%BD%BD4.jpg"
+                        width="100" id="image_izm_rwg_mdc"/></cmd>
+            </step>
+            <step>
+                <cmd>如果系统弹出拦截提示，如下图所示，请打开"系统偏好设置"。</cmd>
+                <info><image href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2015.42.09.png" width="200"
+                        height="250" id="image_q5p_hsw_ydc"/></info>
+            </step>
+            <step>
+                <cmd>找到"安全性与隐私"，如图<image href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2016.02.51.png"
+                        width="70" height="60" id="image_qkx_jsw_ydc"/>，并单击打开。</cmd>
+                <stepresult><image href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2016.05.23.png"
+                        width="300" height="230" id="image_uxl_lsw_ydc"/></stepresult>
+            </step>
+            <step>
+                <cmd>点击左下角按锁按钮。</cmd>
+            </step>
+            <step>
+                <cmd>在弹窗中使用触控ID或输入密码以允许此次操作。</cmd>
+                <stepresult>按钮变为解锁状态，如图所示<image
+                        href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2016.11.46.png" width="150"
+                        height="30" id="image_zcv_nsw_ydc"/></stepresult>
+            </step>
+            <step>
+                <cmd>点击"已阻止使用'Zotero'，因为来自身份不明的开发者"字样右侧的"仍要打开"按钮。</cmd>
+                <stepresult>出现弹窗<image href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2016.20.05.png"
+                        width="150" height="180" id="image_hgf_rsw_ydc"/></stepresult>
+            </step>
+            <step>
+                <cmd>在弹出的"'Zotero'不是来自App Store的App。您确定要打开它吗？"弹窗中，选择"打开"。</cmd>
+                <stepresult>成功安装Zotero，软件自动打开，如图<image
+                        href="jpg/%E6%88%AA%E5%B1%8F2025-01-08%2016.22.31.png" width="200"
+                        height="150" id="image_cnk_wsw_ydc"/></stepresult>
+            </step>
+            <step>
+                <cmd>若未遭遇拦截，系统弹出对话框"'Zotero'是从互联网下载的App。您确定要打开它吗？"，请选择"打开"。</cmd>
+            </step>
+            <step>
+                <cmd>当弹出"欢迎来到Zotero"页面时，表明已成功下载安装，此时官网会有如下提示：<image
+                        href="jpg/macOS%E4%B8%8B%E8%BD%BD5.jpg" width="300" id="image_nnq_gxg_mdc"
+                    /></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

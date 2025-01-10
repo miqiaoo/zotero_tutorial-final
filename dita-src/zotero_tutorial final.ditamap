@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" xml:lang="zh-CN">
+    <title>Zotero Tutorial</title>
+    <topicref href="Chapter1/pre_word.dita">
+        <topicref href="Chapter1/%E4%BB%80%E4%B9%88%E6%98%AFZotero.dita"/>
+    </topicref>
+    <topicref href="Chapter2/basic_functions.dita">
+        <topicref href="Chapter2/part1/Zotero%E4%B8%8B%E8%BD%BD%E5%AE%89%E8%A3%85.ditamap"
+            format="ditamap"/>
+        <topicref href="Chapter2/part2/plugin_map.ditamap" format="ditamap"/>
+        <topicref href="Chapter2/part3/Zotero%E4%B8%AA%E6%80%A7%E5%8C%96%E8%AE%BE%E7%BD%AE.ditamap"
+            format="ditamap"/>
+        <topicref href="Chapter2/part4/part4_import_references.ditamap" format="ditamap"/>
+        <topicref href="Chapter2/part7/word_map.ditamap" format="ditamap"/>
+    </topicref>
+    <topicref href="Chapter3/advanced_functions.dita">
+        <topicref href="Chapter3/part5/part5_notes_managements.ditamap" format="ditamap"/>
+        <topicref href="Chapter3/part6/all_tag_management.ditamap" format="ditamap"/>
+        <topicref href="Chapter3/part8/group.ditamap" format="ditamap"/>
+        <topicref href="Chapter3/part9/backup_and_restore.ditamap" format="ditamap"/>
+        <topicref href="Chapter3/part10/uninstall.ditamap" format="ditamap"/>
+    </topicref>
+    <topicref href="Chapter4/appendix.dita">
+        <topicref href="Chapter4/resource_link.dita"/>
+        <topicref href="Chapter4/conclusion.dita"/>
+    </topicref>
+</map>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="edit-delete-citations">
+    <title>2.5.3 编辑或删除引注</title>
+    <shortdesc>本节介绍如何在Word文档中编辑或删除已插入的引注。</shortdesc>
+    <taskbody>
+        <context>
+            <p>对已插入的引注进行编辑或删除，可采取以下步骤：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>将光标定位在需要编辑或删除的引注内。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>Add/Edit Citation</uicontrol>按钮。</cmd>
+                <info>
+                    <p>如果需要编辑引注内容，在引注对话框中进行修改，然后按Enter键保存更改。如下图所示：</p>
+                    <image placement="break" href="7-image/%E7%BC%96%E8%BE%91%E5%BC%95%E6%B3%A8.jpg"
+                        width="300" id="image_jxm_153_mdc"/>
+                </info>
+            </step>
+            <step>
+                <cmd>如果需要删除引注，选中引注后按<uicontrol>Delete</uicontrol>键或右键选择<uicontrol>删除</uicontrol>。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

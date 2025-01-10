@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"concept_adding_annotations-d663e329":{"topics":[{"title":"如何在 PDF 文档中添加注释","href":"Chapter3\/part5\/task_adding_annotations.html","attributes":{"data-id":"task_add_note_pdf"},"menu":{"hasChildren":false},"tocID":"task_add_note_pdf-d663e337","topics":[]}]}};

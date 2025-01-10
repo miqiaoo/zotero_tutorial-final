@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>3.4 备份和恢复数据</title>
+    <topicref href="topic_data_backup_and_restoration.dita">
+        <topicref href="backup_and_restore_zotero.dita"/>
+        <topicref href="backup_settings.dita"/>
+        <topicref href="backup_data.dita"/>
+    </topicref>
+</map>

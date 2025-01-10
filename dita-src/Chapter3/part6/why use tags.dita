@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="concept_q1r_c5d_ldc">
+    <title>3.2.1 为什么使用标签功能？</title>
+    <shortdesc/>
+    <conbody>
+        <p>解释文件夹与标签功能的区别，以及使用标签的场景。</p>
+        <p/>
+        <p>在 Zotero 中，我们可以使用文件夹和标签来管理文献。文件夹适用于将文献按专题或研究方向分类，但有时一篇文献可能属于多个类别，这时使用标签更为方便。例如：<ul
+                id="ul_o1b_m5d_ldc">
+                <li>将文献分类为"已读"或"未读"。</li>
+                <li>给特定项目编号的文献打标签。<p>相比将文献复制到多个文件夹或创建子文件夹，使用标签可以简化操作，实现“交叉”管理。</p></li>
+            </ul></p>
+    </conbody>
+</concept>

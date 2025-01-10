@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="insert-references">
+    <title>2.5.2 插入参考文献</title>
+    <shortdesc>本节介绍如何在MS Office Word中通过Zotero for MS Office Word插件插入参考文献。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_shs_blf_zdc">在进行以下操作前，请确保：<p>
+                <ol id="ol_qr5_glf_zdc">
+                    <li>Zotero和Word均已安装且正常运行。</li>
+                    <li>Zotero插件已成功集成至Word，可以在Word中看到“Zotero”选项卡。</li>
+                </ol>
+            </p></prereq>
+        <context>
+            <p>在Word中通过Zotero for MS Office Word插件插入参考文献的步骤如下：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>打开Zotero。</cmd>
+            </step>
+            <step>
+                <cmd>打开MS Office Word，加载Word文档。</cmd>
+            </step>
+            <step>
+                <cmd>在Word文档中将光标放置在需要插入引用的位置。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>Add/Edit Citation</uicontrol>按钮。</cmd>
+                <info>首次插入引注时，将弹出“文档首选项”窗口，选择一个CSL样式（如APA或MLA）。<dl id="dl_bbh_3nf_zdc">
+                        <dlentry>
+                            <dt>CSL样式</dt>
+                            <dd>指Citation Style Language，是一种用于定义文献引用和参考文献格式的标准。</dd>
+                        </dlentry>
+                    </dl></info>
+            </step>
+            <step>
+                <cmd>在弹出的引注对话框中，搜索并选择所需文献。如下图所示：<image placement="break"
+                        href="7-image/%E5%BC%95%E7%94%A8%E6%96%87%E7%8C%AE.png" width="300"
+                        id="image_awr_sr3_mdc"/></cmd>
+                <info>可以输入标题、作者或年份关键字以查找文献。</info>
+            </step>
+            <step>
+                <cmd>按Enter键插入引注。如下图所示：<image placement="break"
+                        href="7-image/%E5%BC%95%E6%96%87%E5%AF%B9%E8%AF%9D%E6%A1%86png.png"
+                        width="400" id="image_ezb_ms3_mdc"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="plugin_store">
+    <title>a 以安装“Zotero插件市场”插件为例</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>打开浏览器，在搜索框内键入<xref
+                        href="https://github.com/syt2/zotero-addons/releases/latest/download/zotero-addons.xpi"
+                        format="xpi" scope="external"/></cmd>
+                <stepresult>浏览器将下载Zotero插件市场的安装文件，使用者将其保存至自己选择的位置即可。
+                    <image
+                        href="1%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E5%AE%89%E8%A3%850.png"
+                        width="270" id="image_e4r_svj_mdc"/></stepresult>
+            </step>
+            <step>
+                <cmd>打开Zotero，在依次点击<keyword>工具</keyword>与<keyword>插件</keyword>，在弹出的对话框中点击<keyword>齿轮图标</keyword>选择<keyword>Install
+                        Plugin From File</keyword>。
+                    <image
+                        href="1%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E5%AE%89%E8%A3%851.png"
+                        id="image_oyl_5vj_mdc" width="270"/>
+                    <image
+                        href="1%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E5%AE%89%E8%A3%852.png"
+                        width="270" id="image_ixd_zvj_mdc"/></cmd>
+            </step>
+            <step>
+                <cmd>弹出如图所示对话框后，找到刚才下载的插件市场的安装文件并点击，然后文件就会安装，待安装完毕后在管理插件界面就会出现刚才安装的“Zotero插件市场”插件。
+                   
+                    <image
+                        href="1%E6%8F%92%E4%BB%B6%E5%B8%82%E5%9C%BA%E5%AE%89%E8%A3%853.png"
+                        width="270" id="image_ztm_1wj_mdc"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

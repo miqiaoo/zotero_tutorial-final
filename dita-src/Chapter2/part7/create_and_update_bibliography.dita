@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="create-update-bibliography">
+    <title>2.5.4 创建和更新参考文献表</title>
+    <shortdesc>本节介绍如何在Word文档中创建和更新参考文献表。</shortdesc>
+    <taskbody>
+        <prereq id="prereq_tst_hqf_zdc">确保文档中已插入至少一个引注。</prereq>
+        <context>
+            <p>使用Zotero插件可以在Word中创建和更新参考文献表，步骤如下：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>将光标放置在参考文献表的插入位置。</cmd>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>Add/Edit Bibliography</uicontrol>按钮插入参考文献表。如下图所示：</cmd>
+                <info>
+                    <p>
+                        <image placement="break"
+                            href="7-image/%E5%88%9B%E5%BB%BA%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%A1%A8.png"
+                            width="300" id="image_usx_3v3_mdc"/>
+                    </p>
+                </info>
+            </step>
+            <step>
+                <cmd>点击<uicontrol>刷新</uicontrol>按钮更新参考文献表。如下图所示：</cmd>
+                <info>
+                    <p>
+                        <image placement="break"
+                            href="7-image/%E6%9B%B4%E6%96%B0%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE%E8%A1%A8.png"
+                            width="300" id="image_d3y_jv3_mdc"/>
+                    </p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

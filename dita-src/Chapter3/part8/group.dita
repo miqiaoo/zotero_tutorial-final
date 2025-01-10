@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="introduction">
+    <title>3.3.1 使用Zotero群组</title>
+    <shortdesc>本节介绍Zotero群组功能及其优势。</shortdesc>
+    <conbody>
+        <p>在Zotero中，群组功能提供了一个强大的平台，使得多个用户能够共同工作在一个共享的文献库中，满足课题组协作和小组合作的需求。</p>
+        <ul>
+            <li>实时协作：实现课题组内文献条目及其附件（包括笔记和PDF全文）的实时共享和同步。</li>
+            <li>跨平台同步：支持桌面端、移动端和网页端，确保团队成员随时随地访问最新文献。</li>
+            <li>灵活的文献管理：允许用户在个人文库和群组文库之间双向复制或移动文献条目。</li>
+            <li>无成员限制：不限制群组成员数量，适应不同规模的团队需求。</li>
+            <li>增强团队效率：配合Chartero插件，实时查看成员对文献的阅读进度，提升团队协作效率。</li>
+        </ul>
+    </conbody>
+</concept>

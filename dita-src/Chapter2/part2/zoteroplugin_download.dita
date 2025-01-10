@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="zoteroplugin_download">
+    <title>2.2.3 Zotero插件下载与安装</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>Zotero 的插件功能是其强大特性之一，它允许用户通过添加插件来扩展 Zotero 的能力。这些插件通常具有 .xpi 文件扩展名，并且可以在开源平台如 GitHub 或
+            Gitee 上找到。本章将以Windows系统为例，围绕如何对Zotero插件进行下载与安装。</p>
+    </conbody>
+</concept>

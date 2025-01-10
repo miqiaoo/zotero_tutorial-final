@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="troubleshooting-zotero-word">
+    <title>2.5.6 故障排除</title>
+    <shortdesc>解决在使用Zotero Word插件时遇到的常见问题。</shortdesc>
+    <taskbody>
+        <context>
+            <p>如果遇到Zotero插件未显示、引注未正确更新等问题，请按照以下步骤操作：</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>检查插件安装。</cmd>
+                <info>
+                    <p>确保Zotero插件已正确安装，且Word插件已启用。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>检查网络连接。</cmd>
+                <info>
+                    <p>确保网络连接正常，以便Zotero可以同步库中的更改。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>重启Word和Zotero。</cmd>
+                <info>
+                    <p>尝试重启Word和Zotero，重新建立连接。</p>
+                </info>
+            </step>
+            <step>
+                <cmd>寻求帮助。</cmd>
+                <info>
+                    <p>访问Zotero官方论坛或中文社区寻求帮助。</p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

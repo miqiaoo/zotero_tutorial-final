@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="resource_link">
+    <title>4.1 资源链接</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p></p>
+        <p><xref href="https://www.zotero.org/support/start" format="html" scope="external"
+                >start</xref><b>Quick Links</b><ul id="ul_bbc_2nr_5dc">
+                <li><xref href="https://www.zotero.org/support/installation" format="html"
+                        scope="external">Installation</xref></li>
+                <li><xref href="https://www.zotero.org/support/quick_start_guide" format="html"
+                        scope="external">Quick Start Guide</xref></li>
+                <li><xref href="https://www.zotero.org/support/getting_help" format="html"
+                        scope="external">Getting Help</xref></li>
+                <li><xref href="https://www.zotero.org/support/storage" format="html"
+                        scope="external">Zotero Storage Subscriptions</xref></li>
+                <li><xref href="https://www.zotero.org/support/frequently_asked_questions"
+                        format="html" scope="external">Frequently Asked Questions</xref></li>
+                <li><xref href="https://www.zotero.org/support/changelog" format="html"
+                        scope="external">Version History</xref></li>
+                <li><xref href="https://www.zotero.org/support/system_requirements" format="html"
+                        scope="external">System Requirements</xref></li>
+                <li><xref href="https://www.zotero.org/support/dev/start" format="html"
+                        scope="external">For Developers</xref></li>
+            </ul><b>Using Zotero</b><ul id="ul_cbc_2nr_5dc">
+                <li><b>Getting Stuff Into Your Library</b><ul id="ul_dbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/adding_items_to_zotero"
+                                format="html" scope="external">Adding Items</xref></li>
+                        <li><xref href="https://www.zotero.org/support/attaching_files"
+                                format="html" scope="external">Adding Files</xref></li>
+                        <li><xref href="https://www.zotero.org/support/feeds" format="html"
+                                scope="external">Feeds</xref></li>
+                        <li><xref href="https://www.zotero.org/support/retrieve_pdf_metadata"
+                                format="html" scope="external">Retrieve PDF Metadata</xref></li>
+                        <li><xref href="https://www.zotero.org/support/moving_to_zotero"
+                                format="html" scope="external">Importing from Other Reference
+                                Managers</xref></li>
+                    </ul></li>
+            </ul><ul id="ul_ebc_2nr_5dc">
+                <li><b>Organizing Your Library and Taking Notes</b><ul id="ul_fbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/collections_and_tags"
+                                format="html" scope="external">Collections and Tags</xref></li>
+                        <li><xref href="https://www.zotero.org/support/searching" format="html"
+                                scope="external">Searching</xref></li>
+                        <li><xref href="https://www.zotero.org/support/sorting" format="html"
+                                scope="external">Sorting</xref></li>
+                        <li><xref href="https://www.zotero.org/support/pdf_reader" format="html"
+                                scope="external">PDF Reader</xref></li>
+                        <li><xref href="https://www.zotero.org/support/notes" format="html"
+                                scope="external">Notes</xref></li>
+                        <li><xref href="https://www.zotero.org/support/related" format="html"
+                                scope="external">Related Items</xref></li>
+                        <li><xref href="https://www.zotero.org/support/duplicate_detection"
+                                format="html" scope="external">Duplicate Detection</xref></li>
+                    </ul></li>
+            </ul><ul id="ul_gbc_2nr_5dc">
+                <li><b>Generating Bibliographies, Citations, and Reports</b><ul id="ul_hbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/creating_bibliographies"
+                                format="html" scope="external">Creating Bibliographies within
+                                Zotero</xref></li>
+                        <li><xref href="https://www.zotero.org/support/word_processor_integration"
+                                format="html" scope="external">Word Processor
+                            Integration</xref></li>
+                        <li><xref href="https://www.zotero.org/support/styles" format="html"
+                                scope="external">Citation Styles</xref></li>
+                        <li><xref href="https://www.zotero.org/support/reports" format="html"
+                                scope="external">Reports</xref></li>
+                    </ul></li>
+            </ul><ul id="ul_ibc_2nr_5dc">
+                <li><b>Syncing, Collaboration, and Backup</b><ul id="ul_jbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/sync" format="html"
+                                scope="external">Data and File Syncing</xref></li>
+                        <li><xref href="https://www.zotero.org/support/groups" format="html"
+                                scope="external">Groups</xref></li>
+                        <li>Share your work with <xref
+                                href="https://www.zotero.org/support/my_publications" format="html"
+                                scope="external">My Publications</xref></li>
+                        <li><xref href="https://www.zotero.org/support/zotero_data" format="html"
+                                scope="external">Backup</xref></li>
+                    </ul></li>
+            </ul><ul id="ul_kbc_2nr_5dc">
+                <li><b>Zotero Preferences</b><ul id="ul_lbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/preferences" format="html"
+                                scope="external">Preferences</xref></li>
+                        <li><xref href="https://www.zotero.org/support/connector_preferences"
+                                format="html" scope="external">Zotero Connector
+                            Preferences</xref></li>
+                        <li><xref
+                                href="https://www.zotero.org/support/connector_preferences#proxies_preferences"
+                                format="html" scope="external">Proxies</xref></li>
+                        <li><xref href="https://www.zotero.org/support/supported_languages"
+                                format="html" scope="external">Languages and
+                            Localization</xref></li>
+                    </ul></li>
+            </ul><ul id="ul_mbc_2nr_5dc">
+                <li><b>Getting the Most Out of Zotero</b><ul id="ul_nbc_2nr_5dc">
+                        <li><xref href="https://www.zotero.org/support/kb" format="html"
+                                scope="external">Knowledge Base</xref></li>
+                        <li><xref href="https://www.zotero.org/support/locate" format="html"
+                                scope="external">Locate</xref> items in your institution's library
+                            or other databases</li>
+                        <li><xref href="https://www.zotero.org/support/plugins" format="html"
+                                scope="external">Plugins</xref></li>
+                        <li><xref href="https://www.zotero.org/support/mobile" format="html"
+                                scope="external">Zotero for Mobile</xref></li>
+                        <li>Attend a free official <xref
+                                href="https://www.zotero.org/support/webinars" format="html"
+                                scope="external">webinar</xref></li>
+                        <li><xref href="https://www.zotero.org/support/tips_and_tricks"
+                                format="html" scope="external">Tips and Tricks</xref></li>
+                        <li><xref href="https://www.zotero.org/support/third_party_documentation"
+                                format="html" scope="external">Third Party Documentation</xref></li>
+                        <li>Community-developed <xref
+                                href="https://www.zotero.org/support/screencast_tutorials"
+                                format="html" scope="external">Video Tutorials</xref></li>
+                    </ul></li>
+            </ul><b>Small Print</b><ul id="ul_obc_2nr_5dc">
+                <li><xref href="https://www.zotero.org/support/contact_us" format="html"
+                        scope="external">Contact Us</xref></li>
+                <li><xref href="https://www.zotero.org/accessibility" format="html" scope="external"
+                        >Accessibility</xref></li>
+                <li><xref href="https://www.zotero.org/support/credits_and_acknowledgments"
+                        format="html" scope="external">Credits and Acknowledgments</xref></li>
+                <li><xref href="https://www.zotero.org/support/licensing" format="html"
+                        scope="external">Licensing</xref></li>
+                <li><xref href="https://www.zotero.org/support/security" format="html"
+                        scope="external">Security</xref></li>
+                <li><xref href="https://www.zotero.org/support/privacy" format="html"
+                        scope="external">Privacy Policy</xref></li>
+            </ul></p>
+    </conbody>
+</concept>

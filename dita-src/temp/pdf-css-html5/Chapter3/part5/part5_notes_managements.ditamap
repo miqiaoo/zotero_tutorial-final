@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter3/part5?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter3/part5/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Map//EN?><?doctype-system map.dtd?><map xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" cascade="merge" class="- map/map " ditaarch:DITAArchVersion="1.3" domains="(map mapgroup-d) (topic abbrev-d) (topic delay-d) a(props deliveryTarget) (map ditavalref-d) (map glossref-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d)" specializations="@props/deliveryTarget" xtrc="map:1;3:6" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+    <title class="- topic/title " xtrc="title:1;4:12" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">3.1 笔记管理</title>
+    <topicref class="- map/topicref " href="topic_notes_managements.dita" xtrc="topicref:1;5:60" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+        <topicref class="- map/topicref " href="topic_adding_notes.dita" xtrc="topicref:2;6:59" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+            <topicref class="- map/topicref " href="concept_highlights.dita" xtrc="topicref:3;7:63" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_highlights.dita" xtrc="topicref:4;8:65" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+            <topicref class="- map/topicref " href="concept_adding_annotations.dita" xtrc="topicref:5;10:71" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_adding_annotations.dita" xtrc="topicref:6;11:73" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+            <topicref class="- map/topicref " href="concept_deleting_annotations.dita" xtrc="topicref:7;13:73" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_deleting_annotations.dita" xtrc="topicref:8;14:75" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+            <topicref class="- map/topicref " href="concept_adding_annotations_to_notes.dita" xtrc="topicref:9;16:80" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_adding_annotations_to_notes.dita" xtrc="topicref:10;17:82" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+            <topicref class="- map/topicref " href="concept_adding_individual_notes.dita" xtrc="topicref:11;19:76" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_adding_individual_notes.dita" xtrc="topicref:12;20:78" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+                <topicref class="- map/topicref " href="reference_individual_notes.dita" xtrc="topicref:13;21:76" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+        </topicref>
+        <topicref class="- map/topicref " href="topic_manage_notes.dita" xtrc="topicref:14;24:59" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+            <topicref class="- map/topicref " href="concept_related_documents.dita" xtrc="topicref:15;25:70" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap">
+                <topicref class="- map/topicref " href="task_related_documents.dita" xtrc="topicref:16;26:72" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+                <topicref class="- map/topicref " href="reference_related_documents.dita" xtrc="topicref:17;27:77" xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter3/part5/part5_notes_managements.ditamap"/>
+            </topicref>
+        </topicref>
+    </topicref>
+</map>

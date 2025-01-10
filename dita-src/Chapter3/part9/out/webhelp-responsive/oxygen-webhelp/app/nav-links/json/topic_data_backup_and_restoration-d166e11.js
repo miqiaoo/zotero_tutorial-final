@@ -1,0 +1,1 @@
+oxy_webhelp_navlinks = {"topic_data_backup_and_restoration-d166e11":{"topics":[{"title":"备份和恢复数据","shortdesc":"<p class=\"shortdesc\">Zotero 的备份包括设置和数据两个部分，以下内容介绍如何进行备份和恢复：<\/p>","href":"backup_and_restore_zotero.html","attributes":{"data-id":"backup-restore-zotero"},"menu":{"hasChildren":true},"tocID":"backup-restore-zotero-d166e19","next":"backup-restore-zotero-d166e19"}]}};

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="invite-and-join-group">
+    <title>3.3.3 加入群组</title>
+    <shortdesc>本节介绍加入群组的三种方式，包括邀请他人加入自己的群组和申请加入其他群组。</shortdesc>
+    <taskbody>
+        <context>
+            <p>可以通过管理员邀请、官网群组搜索和群组链接三种方式加入群组。</p>
+        </context>
+        <steps>
+            
+                
+            <step>
+                <cmd>通过管理员邀请加入群组：</cmd>
+                <info>群主和管理员可以邀请新成员。进入Zotero群组页面，点击群组名称下方的<uicontrol>Members
+                    Settings</uicontrol>。</info>
+                <info>
+                    <p>点击页面左下角的<uicontrol>Send More
+                            Invitations</uicontrol>。在邀请成员界面的方框内，输入被邀请人的Zotero用户名或注册Zotero时所用的电子邮箱，点击<uicontrol>Invite
+                            Members</uicontrol>完成邀请。<image placement="break"
+                            href="8-image/%E7%AE%A1%E7%90%86%E5%91%98%E9%82%80%E8%AF%B71.jpg"
+                            width="400" id="image_vx4_wsh_mdc"/><image placement="break"
+                            href="8-image/%E7%AE%A1%E7%90%86%E5%91%98%E9%82%80%E8%AF%B72.png"
+                            width="200" id="image_mfb_ysh_mdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>通过官网群组搜索加入群组：</cmd>
+                <info>
+                    <p>在Zotero官网群组搜索页面，通过群组名称搜索目标群组。在搜索结果页面中点击目标群组名称，进入该群组的主页，点击右侧的<uicontrol>Join</uicontrol>申请加入。Public
+                            Open群组点击<uicontrol>Join</uicontrol>后即可加入，Public
+                            Closed群组需要等管理员或群主通过申请。<image placement="break"
+                            href="8-image/%E5%AE%98%E7%BD%91%E7%BE%A4%E7%BB%84%E6%90%9C%E7%B4%A21.png"
+                            width="300" id="image_cbf_kth_mdc"/><image placement="break"
+                            href="8-image/%E5%AE%98%E7%BD%91%E7%BE%A4%E7%BB%84%E6%90%9C%E7%B4%A22.png"
+                            width="300" id="image_jrv_lth_mdc"/><image placement="break"
+                            href="8-image/%E5%AE%98%E7%BD%91%E7%BE%A4%E7%BB%84%E6%90%9C%E7%B4%A23.png"
+                            width="300" id="image_hq3_4th_mdc"/></p>
+                </info>
+            </step>
+            <step>
+                <cmd>通过群组链接加入群组：</cmd>
+                <info>
+                    <p>群组成员可以分享群组链接，他人打开链接即可申请加入。<image placement="break"
+                            href="8-image/%E7%BE%A4%E9%93%BE%E6%8E%A5.png" width="300"
+                            id="image_u3h_sth_mdc"/></p>
+                </info>
+            </step>
+        </steps>
+    </taskbody>
+</task>

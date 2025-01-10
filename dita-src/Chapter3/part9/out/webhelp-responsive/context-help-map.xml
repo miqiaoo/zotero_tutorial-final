@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="topic_data_backup_and_restoration"
+               path="topic_data_backup_and_restoration.html"/>
+   <appContext helpID="backup-restore-zotero" path="backup_and_restore_zotero.html"/>
+   <appContext helpID="backup_settings" path="backup_settings.html"/>
+   <appContext helpID="backup_data" path="backup_data.html"/>
+</map>

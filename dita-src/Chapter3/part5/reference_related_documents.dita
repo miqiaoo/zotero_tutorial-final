@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="reference_related_documents">
+    <title>II 关联逻辑</title>
+ 
+    <shortdesc>关联关系是双向的，但不具备传递性即条目A与B关联，Zotero会自动让B关联A；若A关联B，B关联C，A并不会自动关联C。</shortdesc>
+    <refbody>
+        <example>
+            <p> </p>
+            <p>
+                <image href="5-image/%E6%88%AA%E5%B1%8F2025-01-09%2016.35.06.png" width="350"
+                    id="image_anc_4zd_zdc"/></p>
+            <p><image href="5-image/zotero_linking_logic.png" width="400" id="image_qjk_nq1_ydc"
+                /></p>
+        </example>
+    </refbody>
+       
+    </reference>
+<!---->
+    

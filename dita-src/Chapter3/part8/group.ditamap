@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>3.3 使用群组</title>
+    <topicref href="topic_using_groups.dita">
+        <topicref href="group.dita"/>
+        <topicref href="create_group.dita"/>
+        <topicref href="join_group.dita"/>
+    </topicref>
+</map>

@@ -1,0 +1,1 @@
+define({"title":"<span class=\"title\">6. 标签管理<\/span>","topics":[{"title":"Zotero标签的管理","shortdesc":"<p class=\"shortdesc\"\/>","href":"zotero%20tag%20usage.html","attributes":{"data-id":"topic_yb3_ttd_ldc"},"menu":{"hasChildren":true},"tocID":"topic_yb3_ttd_ldc-d174e11","next":"topic_yb3_ttd_ldc-d174e11"}]});

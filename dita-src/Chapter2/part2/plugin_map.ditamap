@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>2.2 安装插件</title>
+    <topicref href="2_2_install_plugin_0.dita">
+        <topicref href="browser_plugin.dita">
+            <topicref href="Chrome_plugin_online.dita"/>
+            <topicref href="troubleshooting_chrome_plugin.dita"/>
+        </topicref>
+        <topicref href="chrome_plugin_operating.dita">
+            <topicref href="operating_plugin_in_chrome.dita"/>
+            <topicref href="troubleshooting_plugin_in_chrome.dita"/>
+        </topicref>
+        <topicref href="zoteroplugin_download.dita">
+            <topicref href="zoterostore_plugin.dita"/>
+            <topicref href="jas%20plugin.dita"/>
+        </topicref>
+    </topicref>
+</map>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>2.5 文献引用</title>
+    <topicref href="topic_using_zotero_in_word.dita">
+        <topicref href="zotero_for_ms_office_word.dita"/>
+        <topicref href="insert_citations.dita"/>
+        <topicref href="edit_and_delete_citations.dita"/>
+        <topicref href="create_and_update_bibliography.dita"/>
+        <topicref href="switch_style.dita"/>
+        <topicref href="word_troubleshooting.dita"/>
+    </topicref>
+</map>

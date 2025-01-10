@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map PUBLIC "-//OASIS//DTD DITA Map//EN" "map.dtd">
+<map>
+    <title>3.5 用户卸载</title>
+    <topicref href="uninstall_user.dita">
+        <topicref href="zotero_uninstall.dita"/>
+        <topicref href="plugin_uninstall.dita"/>
+    </topicref>
+</map>

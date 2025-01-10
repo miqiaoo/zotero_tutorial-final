@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><?workdir /Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial final/temp/pdf-css-html5/Chapter2/part3?><?workdir-uri file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/temp/pdf-css-html5/Chapter2/part3/?><?path2project ../../?><?path2project-uri ../../?><?path2rootmap-uri ../../?><?doctype-public -//OASIS//DTD DITA Task//EN?><?doctype-system task.dtd?><task xmlns:dita-ot="http://dita-ot.sourceforge.net/ns/201007/dita-ot" xmlns:ditaarch="http://dita.oasis-open.org/architecture/2005/" id="zotero" ditaarch:DITAArchVersion="1.3" domains="(topic task) (topic abbrev-d) a(props deliveryTarget) (topic equation-d) (topic hazard-d) (topic hi-d) (topic indexing-d) (topic markup-d) (topic mathml-d) (topic pr-d) (topic relmgmt-d) (topic sw-d) (topic svg-d) (topic ui-d) (topic ut-d) (topic markup-d xml-d) (topic task strictTaskbody-c)" class="- topic/topic task/task " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="task:1;3:19" specializations="@props/deliveryTarget">
+    <title class="- topic/title " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="title:1;4:12">2.3.2 如何将Zotero界面语言从英文更改为中文</title>
+    <shortdesc class="- topic/shortdesc " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="shortdesc:1;5:17"/>
+    <taskbody class="- topic/body task/taskbody " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="taskbody:1;6:15">
+        <context class="- topic/section task/context " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="context:1;7:18">
+            <p class="- topic/p " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="p:1;8:16">如果你需要把Zotero界面从英文切换为中文，请按照以下步骤：</p>
+        </context>
+        <steps class="- topic/ol task/steps " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="steps:1;10:16">
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:1;11:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:1;12:22">在Zotero中，点击"Edit"（编辑）</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:2;14:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:2;15:22">在点击"Edit"后，点击"Settings"（设置）</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:3;17:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:3;18:22">再点击"General" （常规）。</cmd>
+                <stepresult class="- topic/itemgroup task/stepresult " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="stepresult:1;19:29"><image href="pic/WechatIMG563.jpg" width="300" height="100" id="image_eb2_g1z_ydc" placement="inline" class="- topic/image " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="image:1;20:49"/></stepresult>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:4;22:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:4;23:22">在"Appearance and Language"（外观和语言）部分，点击"Language"（语言）后面的下拉菜单。 </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:5;25:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:5;26:22">从列表中选择"中文（简体）"或繁体中文。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:6;28:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:6;29:22">系统会提示"Zotero must be restarted for the change to take
+                    effect"（Zotero需要重启以使更改生效）。 </cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:7;32:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:7;33:22">点击"Restart now"（立即重启），Zotero会重启。</cmd>
+            </step>
+            <step class="- topic/li task/step " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="step:8;35:19">
+                <cmd class="- topic/ph task/cmd " xtrf="file:/Users/mac/Desktop/2024入学/课程/技术写作/期末作业/小组作业/zotero_tutorial%20final/Chapter2/part3/如何将Zotero界面语言从英文更改为中文.dita" xtrc="cmd:8;36:22">重启后，Zotero界面会切换为中文。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

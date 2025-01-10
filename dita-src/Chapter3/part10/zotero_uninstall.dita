@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_jtr_gjj_mdc">
+    <title>3.5.1 卸载Zotero（以Windows系统为例）</title>
+    <shortdesc>卸载zotero正确方法。卸载的同时保证未来仍可下载使用。</shortdesc>
+    <taskbody>
+        <context>
+            <p>卸载的同时保证未来仍可下载使用，不建议从Program File(x86)中直接删除。</p>
+            <p><image href="1%E8%AE%BE%E7%BD%AE0.png" width="270" id="image_wyw_2xj_mdc"/><image
+                    href="1%E5%8D%B8%E8%BD%BDzotero1.png" id="image_jrc_gxj_mdc" width="270"/></p>
+        </context>
+        <steps>
+            <step>
+                <cmd>找到桌面<keyword>开始</keyword>点击，展开后点击<keyword>设置</keyword>，搜索<keyword>应用和功能</keyword>并点击。</cmd>
+            </step>
+            <step>
+                <cmd>找到<keyword>Zotero</keyword>点击并展开，选择<keyword>卸载</keyword>即可。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

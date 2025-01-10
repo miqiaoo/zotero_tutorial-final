@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_adding_annotations_to_notes">
+    <title>如何通过注释添加笔记</title>
+    <taskbody>
+        <steps>
+            <step>
+                <cmd>打开 PDF 文件，右键点击，选择<uicontrol>“通过注释添加笔记”</uicontrol>。</cmd>
+                <info><image href="5-image/5.1.4a.png" width="300" id="image_srn_b4m_ldc"/></info>
+                <stepresult><image href="5-image/5.1.4b.png" width="300" id="image_otr_d4m_ldc"
+                    /></stepresult>
+            </step>
+            <step>
+                <cmd>自定义笔记内容格式。</cmd>
+                <substeps id="substeps_egc_qbz_xdc">
+                    <substep>
+                        <cmd>选择"格式化文本"，可以调整文本对齐方式，字体大小，字体格式（加粗、斜体、下划线等）。</cmd>
+                        <info><image
+                                href="5-image/%E6%A0%BC%E5%BC%8F%E5%8C%96%E6%96%87%E6%9C%AC.png"
+                                width="200" id="image_g23_ybz_xdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>选择"颜色"，可以调整字体颜色。</cmd>
+                        <info><image href="5-image/font%20color.png" width="200"
+                                id="image_d32_bcz_xdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>选择"高亮文本"，可以高亮选中的文字，并选择颜色。</cmd>
+                        <info><image href="5-image/highlight%20text.png" width="200"
+                                id="image_mdv_dcz_xdc"/></info>
+                    </substep>
+                    <substep>
+                        <cmd>点击"保存"或回车，即可完成笔记格式自定义。</cmd>
+                    </substep>
+                </substeps>
+            </step>
+        </steps>
+    </taskbody>
+</task>

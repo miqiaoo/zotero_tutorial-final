@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="task_vm4_h1j_mdc">
+    <title>b 通过Zotero插件市场安装插件（以“Jasminum”插件为例）</title>
+    <shortdesc>一些常用Zotero插件可通过Zotero插件市场安装，以下将以按装“Jasminum”插件为例。
+        <image
+            href="3jasmine%E6%8F%92%E4%BB%B6%E5%AE%89%E8%A3%85.png" width="500"
+            id="image_pyq_cwj_mdc"/></shortdesc>
+    <taskbody>
+        <steps id="steps_rz5_z1j_mdc">
+            <step>
+                <cmd>点击Zotero工具条上<keyword>Zotero插件市场</keyword>，将会弹出Zotero插件市场界面，其上显示了Zotero插件市场支持的插件，内容包括插件名称、简介、发布信息、服务器最新版本、本地安装版本、本地装状态，此处建议将<keyword>Automatic
+                        update add-ons</keyword>选中，保证插件后期自动更新。</cmd>
+            </step>
+            <step>
+                <cmd>找到所需插件并选中，如Jasminum插件，再点击<keyword>install</keyword>，接下来Zotero插件市场将会安装该选中插件。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

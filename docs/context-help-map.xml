@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="pre_word" path="Chapter1/pre_word.html"/>
+   <appContext helpID="zotero" path="Chapter1/什么是Zotero.html"/>
+   <appContext helpID="basic_functions" path="Chapter2/basic_functions.html"/>
+   <appContext helpID="topic_download_and_install_zotero"
+               path="Chapter2/part1/topic_download_and_install_zotero.html"/>
+   <appContext helpID="windows_zotero" path="Chapter2/part1/windows_zotero.html"/>
+   <appContext helpID="macos_zotero" path="Chapter2/part1/macos_zotero.html"/>
+   <appContext helpID="_2_2_install_plugin_0"
+               path="Chapter2/part2/2_2_install_plugin_0.html"/>
+   <appContext helpID="concept_ek5_tcj_mdc" path="Chapter2/part2/browser_plugin.html"/>
+   <appContext helpID="task_rqn_2dj_mdc"
+               path="Chapter2/part2/Chrome_plugin_online.html"/>
+   <appContext helpID="trouble_kt4_5gj_mdc"
+               path="Chapter2/part2/troubleshooting_chrome_plugin.html"/>
+   <appContext helpID="chrome_plugin_operating"
+               path="Chapter2/part2/chrome_plugin_operating.html"/>
+   <appContext helpID="operating_plugin_in_chrome"
+               path="Chapter2/part2/operating_plugin_in_chrome.html"/>
+   <appContext helpID="troubleshooting_plugin_in_chrome"
+               path="Chapter2/part2/troubleshooting_plugin_in_chrome.html"/>
+   <appContext helpID="zoteroplugin_download"
+               path="Chapter2/part2/zoteroplugin_download.html"/>
+   <appContext helpID="plugin_store" path="Chapter2/part2/zoterostore_plugin.html"/>
+   <appContext helpID="task_vm4_h1j_mdc" path="Chapter2/part2/jas%20plugin.html"/>
+   <appContext helpID="zotero" path="Chapter2/part3/Zotero界面语言更改.html"/>
+   <appContext helpID="task_jfq_dlh_mdc"
+               path="Chapter2/part3/如何将Zotero界面语言从中文更改为其它.html"/>
+   <appContext helpID="zotero" path="Chapter2/part3/如何将Zotero界面语言从英文更改为中文.html"/>
+   <appContext helpID="import-references"
+               path="Chapter2/part4/topic_import_references.html"/>
+   <appContext helpID="concept_create_library"
+               path="Chapter2/part4/concept_library.html"/>
+   <appContext helpID="task_create_library"
+               path="Chapter2/part4/task_create_library.html"/>
+   <appContext helpID="import-references"
+               path="Chapter2/part4/topic_import_documents.html"/>
+   <appContext helpID="concept_cnki_import"
+               path="Chapter2/part4/concept_import_from_cnki.html"/>
+   <appContext helpID="task_import_cnki_entries"
+               path="Chapter2/part4/task_import_from_cnki.html"/>
+   <appContext helpID="concept_identifiers_import"
+               path="Chapter2/part4/concept_import_with_identifiers.html"/>
+   <appContext helpID="task_import_by_identifier"
+               path="Chapter2/part4/task_import_with_identifiers.html"/>
+   <appContext helpID="troubleshooting_can_t_find_identifier"
+               path="Chapter2/part4/troubleshooting_can_t_find_identifier.html"/>
+   <appContext helpID="concept_cnki_import"
+               path="Chapter2/part4/concept_local_import.html"/>
+   <appContext helpID="task_import_local_entries"
+               path="Chapter2/part4/task_local_import.html"/>
+   <appContext helpID="troubleshooting_duplicate_entries"
+               path="Chapter2/part4/troubleshooting_duplicate_documents.html"/>
+   <appContext helpID="topic_using_zotero_in_word"
+               path="Chapter2/part7/topic_using_zotero_in_word.html"/>
+   <appContext helpID="zotero-overview"
+               path="Chapter2/part7/zotero_for_ms_office_word.html"/>
+   <appContext helpID="insert-references" path="Chapter2/part7/insert_citations.html"/>
+   <appContext helpID="edit-delete-citations"
+               path="Chapter2/part7/edit_and_delete_citations.html"/>
+   <appContext helpID="create-update-bibliography"
+               path="Chapter2/part7/create_and_update_bibliography.html"/>
+   <appContext helpID="switch-citations-style" path="Chapter2/part7/switch_style.html"/>
+   <appContext helpID="troubleshooting-zotero-word"
+               path="Chapter2/part7/word_troubleshooting.html"/>
+   <appContext helpID="advanced_functions" path="Chapter3/advanced_functions.html"/>
+   <appContext helpID="notes-managements"
+               path="Chapter3/part5/topic_notes_managements.html"/>
+   <appContext helpID="adding-notes" path="Chapter3/part5/topic_adding_notes.html"/>
+   <appContext helpID="concept_highlights"
+               path="Chapter3/part5/concept_highlights.html"/>
+   <appContext helpID="task_highlight_underline_pdf"
+               path="Chapter3/part5/task_highlights.html"/>
+   <appContext helpID="concept_adding_annotations"
+               path="Chapter3/part5/concept_adding_annotations.html"/>
+   <appContext helpID="task_add_note_pdf"
+               path="Chapter3/part5/task_adding_annotations.html"/>
+   <appContext helpID="concept_deleting_annotations"
+               path="Chapter3/part5/concept_deleting_annotations.html"/>
+   <appContext helpID="task_delete_annotation"
+               path="Chapter3/part5/task_deleting_annotations.html"/>
+   <appContext helpID="concept_adding_annotations_to_notes"
+               path="Chapter3/part5/concept_adding_annotations_to_notes.html"/>
+   <appContext helpID="task_adding_annotations_to_notes"
+               path="Chapter3/part5/task_adding_annotations_to_notes.html"/>
+   <appContext helpID="concept_adding_individual_notes"
+               path="Chapter3/part5/concept_adding_individual_notes.html"/>
+   <appContext helpID="task_adding_independent_note"
+               path="Chapter3/part5/task_adding_individual_notes.html"/>
+   <appContext helpID="reference_individual_notes"
+               path="Chapter3/part5/reference_individual_notes.html"/>
+   <appContext helpID="topic_manage_notes"
+               path="Chapter3/part5/topic_manage_notes.html"/>
+   <appContext helpID="concept_related_documents"
+               path="Chapter3/part5/concept_related_documents.html"/>
+   <appContext helpID="task_related_documents"
+               path="Chapter3/part5/task_related_documents.html"/>
+   <appContext helpID="reference_related_documents"
+               path="Chapter3/part5/reference_related_documents.html"/>
+   <appContext helpID="topic_yb3_ttd_ldc"
+               path="Chapter3/part6/zotero%20tag%20usage.html"/>
+   <appContext helpID="concept_q1r_c5d_ldc"
+               path="Chapter3/part6/why%20use%20tags.html"/>
+   <appContext helpID="manage_tags" path="Chapter3/part6/manage_tags.html"/>
+   <appContext helpID="tag_search_and_color"
+               path="Chapter3/part6/tag_search_and_color.html"/>
+   <appContext helpID="bulk_delere_tags" path="Chapter3/part6/bulk_delere_tags.html"/>
+   <appContext helpID="topic_using_groups"
+               path="Chapter3/part8/topic_using_groups.html"/>
+   <appContext helpID="introduction" path="Chapter3/part8/group.html"/>
+   <appContext helpID="create-group" path="Chapter3/part8/create_group.html"/>
+   <appContext helpID="invite-and-join-group" path="Chapter3/part8/join_group.html"/>
+   <appContext helpID="topic_data_backup_and_restoration"
+               path="Chapter3/part9/topic_data_backup_and_restoration.html"/>
+   <appContext helpID="backup-restore-zotero"
+               path="Chapter3/part9/backup_and_restore_zotero.html"/>
+   <appContext helpID="backup_settings" path="Chapter3/part9/backup_settings.html"/>
+   <appContext helpID="backup_data" path="Chapter3/part9/backup_data.html"/>
+   <appContext helpID="uninstall_user" path="Chapter3/part10/uninstall_user.html"/>
+   <appContext helpID="task_jtr_gjj_mdc" path="Chapter3/part10/zotero_uninstall.html"/>
+   <appContext helpID="task_wps_skj_mdc" path="Chapter3/part10/plugin_uninstall.html"/>
+   <appContext helpID="appendix" path="Chapter4/appendix.html"/>
+   <appContext helpID="resource_link" path="Chapter4/resource_link.html"/>
+   <appContext helpID="topic_rx3_41x_wdc" path="Chapter4/conclusion.html"/>
+</map>
